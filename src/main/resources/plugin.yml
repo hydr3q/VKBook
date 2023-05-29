@@ -1,0 +1,7 @@
+name: VKBook
+version: '${project.version}'
+main: space.moonstudio.vkbook.VKBook
+authors: [ MoonStudio ]
+api-version: 1.19
+commands:
+  news:

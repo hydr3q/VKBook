@@ -1,0 +1,5 @@
+check-interval: 1200 #в тиках
+book-author: 'MoonStudio'
+book-title: 'Последние новости'
+vk-user-token: 'YOUR_USER_TOKEN' #Токен пользователя вк
+vk-group-id: 'TARGET_GROUP_ID' #Без знака "-". MoonStudio => 170461709
